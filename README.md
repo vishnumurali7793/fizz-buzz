@@ -11,6 +11,7 @@ A robust and production-ready Fizz-Buzz REST Server that follows the classic Fiz
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [License](#license)
+- [API Documentation](#apidocumentation)
 
 ## Installation
 1. Checkout the project into the IDE.
