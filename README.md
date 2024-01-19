@@ -24,3 +24,6 @@ Endpoint details are provided below.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## API Documentation
+Documentation for the APIs will be available at : http://localhost:8080/fizz-buzz/swagger-ui/index.html
